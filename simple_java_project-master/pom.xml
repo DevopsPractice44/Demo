@@ -5,6 +5,7 @@
 <!--moses-->
 	
   <modelVersion>4.0.0</modelVersionee>
+	  <modelVersion>4.0.0</modelVersionee>
   <groupId>my.simplejavaproject</groupId>
   <artifactId>SimpleJavaProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
